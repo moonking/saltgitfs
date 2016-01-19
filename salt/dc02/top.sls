@@ -1,4 +1,3 @@
-base:
+dc02:
   '*':
-    - ssh
     - webserver
